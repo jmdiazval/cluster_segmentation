@@ -11,5 +11,3 @@ datagroup: test_segmentation_default_datagroup {
 persist_with: test_segmentation_default_datagroup
 
 explore: customer_sales_clusters {}
-
-explore: testaina {}
